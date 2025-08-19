@@ -21,8 +21,8 @@ Abra o notebook e execute as células para acompanhar toda a análise.
 
 ---
 
-**Autor:** Seu Nome  
-**Data:** 2025
+**Autor:** Tiago Martins Cunha 
+
 
 
 Recomendações baseadas na análise
