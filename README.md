@@ -1,16 +1,28 @@
-Análise de Churn de Clientes
-Descrição
+# Análise de Churn de Clientes
 
-Este projeto realiza uma análise de evasão de clientes (churn) para uma empresa de serviços. O objetivo é entender quais fatores influenciam o cancelamento e fornecer insights para reduzir a perda de clientes.
+## Sobre o Projeto
+Análise exploratória para entender os fatores que influenciam a evasão de clientes (churn) em uma empresa de serviços.
 
-Conteúdo
+## O que foi feito
+- Importação e limpeza dos dados
+- Criação de novas variáveis para análise
+- Análise descritiva e visualização da evasão geral
+- Avaliação do churn por perfil de clientes
+- Insights e recomendações para redução da evasão
 
-Importação e limpeza dos dados
+## Como usar
+Abra o notebook e execute as células para acompanhar toda a análise.
 
-Análise descritiva das variáveis
+## Tecnologias
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
-Visualização da taxa de churn geral e por grupos
+---
 
-Identificação de padrões relevantes para evasão
+**Autor:** Seu Nome  
+**Data:** 2025
+
 
 Recomendações baseadas na análise
